@@ -1,0 +1,4 @@
+- Game of simplified Blackjack
+- Identicon generator
+- Simple log parser
+- Micro interpreter
