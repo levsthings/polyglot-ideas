@@ -4,7 +4,7 @@
 
 -   [Cat](./specs/cat.md)
 -   Game of simplified blackjack
--   Sentiment Analysis
+-   [Display Sentiment](./specs/display-sentiment.md)
 -   Identicon generator
 -   Simple log parser
 -   Micro interpreter
