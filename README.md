@@ -25,3 +25,7 @@
 ## Contributing
 
 If you have any ideas please send a PR, you can add your idea to the README and an overview of the impelementation in the `/specs` folder. The idea is to inspire people to try new programming languages with fun projects that present clear requirements.
+
+## LICENSE
+
+This project is licensed under the terms of the Creative Commons Attribution 4.0 International Public License. You can read it [here.](./LICENCE)
