@@ -19,4 +19,9 @@
 
 **3rd Party Data**
 
--  [Display Sentiment](./specs/display_sentiment.md) -- *Implements 3rd party API*
+-  [Display Sentiment](./specs/display_sentiment.md)
+
+
+## Contributing
+
+If you have any ideas please send a PR, you can add your idea to the README and an overview of the impelementation in the `/specs` folder. The idea is to inspire people to try new programming languages with fun projects that present clear requirements.
