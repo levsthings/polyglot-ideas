@@ -2,9 +2,21 @@
 
 #### Simple and fun command-line programs to implement when trying out new programming languages:
 
--   [Cat](./specs/cat.md)
--   Game of simplified blackjack
--   [Display Sentiment](./specs/display_sentiment.md) -- *Implements 3rd party API*
--   Identicon generator
--   Simple log parser
--   Micro interpreter
+**Utility/Tool**
+
+-  [Cat](./specs/cat.md)
+-  Identicon generator
+-  Simple Log Parser
+
+**Game/Simulation**
+
+-  Game of Life
+-  Simplified Blackjack
+
+**Programming**
+
+-  Micro Interpreter
+
+**3rd Party Data**
+
+-  [Display Sentiment](./specs/display_sentiment.md) -- *Implements 3rd party API*
