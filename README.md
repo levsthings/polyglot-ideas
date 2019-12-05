@@ -7,6 +7,11 @@
 -  [Cat](./specs/cat.md)
 -  Identicon generator
 -  Simple Log Parser
+-  Uptime Monitor
+
+**Social Media**
+
+-  TweetCLI
 
 **Game/Simulation**
 
@@ -19,6 +24,10 @@
 
 **3rd Party Data**
 
+-  Weather Report
+-  Currency Pairs
+-  Country by IP
+-  WHOIS
 -  [Display Sentiment](./specs/display_sentiment.md)
 
 ## Todo
