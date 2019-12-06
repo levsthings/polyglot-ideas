@@ -13,6 +13,10 @@
 
 -  TweetCLI
 
+**Audio**
+
+- White Noise Generator
+
 **Game/Simulation**
 
 -  Game of Life
