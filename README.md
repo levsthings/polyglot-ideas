@@ -1,6 +1,6 @@
 # Polyglot Ideas
 
-#### Simple and fun command-line programs to implement when trying out new programming languages:
+#### Simple and fun programs to implement when trying out new programming languages:
 
 **Utility/Tool**
 
@@ -26,7 +26,16 @@
 
 -  Micro Interpreter
 
-**3rd Party Data**
+**Networking**
+
+- HTTP Server
+- P2P Command Line Chat
+
+**Data**
+
+- In-memory Database
+
+**3rd Party API**
 
 -  Weather Report
 -  Currency Pairs
@@ -37,8 +46,6 @@
 ## Todo
 
 - [ ] Add missing specs to the current list of projects.
-- [ ] Add more project ideas.
-- [ ] Reach out to OS communities and encourage other people to chime in with their ideas.
 
 ## Contributing
 
