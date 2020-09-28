@@ -11,7 +11,7 @@
 
 **Social Media**
 
--  TweetCLI
+-  ~TweetCLI~ _Removed due to Twitter rejecting developer applications that are inteded to be used as training and hobbyist material._
 
 **Audio**
 
